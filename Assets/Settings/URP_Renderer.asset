@@ -71,13 +71,13 @@ MonoBehaviour:
   m_Active: 1
   m_Settings:
     AOMethod: 1
-    Downsample: 0
+    Downsample: 1
     AfterOpaque: 0
     Source: 1
     NormalSamples: 1
-    Intensity: 3
+    Intensity: 0.3
     DirectLightingStrength: 0.25
-    Radius: 0.035
+    Radius: 0.025
     Samples: 1
     BlurQuality: 0
     Falloff: 100
